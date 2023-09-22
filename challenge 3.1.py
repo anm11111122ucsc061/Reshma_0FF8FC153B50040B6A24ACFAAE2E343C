@@ -20,5 +20,5 @@ def linearSearchProduct(productList, targetProduct):
 products = ["shoes", "boot", "loafer", "shoes", "sandal", "shoes"]
 target = "shoes"
 target2 = 'apple'
-result = linearSearchProduct(products, target)
+result = linearSearchProduct(products, target2)
 print(result)
